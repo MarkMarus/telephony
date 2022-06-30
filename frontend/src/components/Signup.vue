@@ -47,15 +47,6 @@
               </div>
             </form>
             <div class="d-flex my-4 justify-content-center">
-                 <a href="https://www.twitter.com/0perationP" target="_blank" rel="noopener noreferrer" aria-label="Twitter" title="Twitter">
-                    <b-icon font-scale="2" icon="twitter" variant="secondary" class="mx-2"></b-icon>
-                 </a>
-                 <a href="https://github.com/0perationPrivacy/" target="_blank" rel="noopener noreferrer" aria-label="Github" title="Github">
-                  <b-icon font-scale="2" icon="github" variant="secondary" class="mx-2"></b-icon>
-                 </a>
-                 <a href="https://www.OperationPrivacy.com/donate" target="_blank" rel="noopener noreferrer" aria-label="Donate" title="Donate">
-                  <b-icon font-scale="2" icon="credit-card" variant="secondary" class="mx-2"></b-icon>
-                 </a>
               </div>
         </div>
                 <p class="version">{{ version }}</p>

@@ -50,6 +50,7 @@
     </section>
     <section class="col col-md-8 pb-2" id="drop-area1">
       <div class="chat-head">
+        <b-button>Создать рассылку</b-button>
         <b-icon
           font-scale="2"
           icon="chevron-left"
